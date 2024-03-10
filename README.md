@@ -1,6 +1,6 @@
 # GW2-Raid-Role-Randomizer
 
-The Raid Role Randomizer is a third-party, external tool for Guild Wars 2, which lets you randomize the main squad composition of your raid squad.
+The Raid Role Randomizer is a third-party, external tool for Guild Wars 2, which lets you randomize the main squad composition of your raid squad. Download the current version from the [release](https://github.com/BKris2315/GW2-Raid-Role-Randomizer/releases/tag/release) page.
 
 Features:
 - it assures to have in your squad 2 healers (one tank), 2 support dps and 6 dps
