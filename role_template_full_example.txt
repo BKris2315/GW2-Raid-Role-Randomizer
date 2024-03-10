@@ -1,0 +1,34 @@
+~<YOUR NAME HERE>~
+Wing 1
+- VALE GUARDIAN: aheal, qheal, aheal tank, qheal tank, adps, qdps, dps
+- GORSEVAL: aheal, qheal, aheal tank, qheal tank, adps, qdps, dps
+- SABETHA: aheal, qheal, aheal tank, qheal tank, adps, qdps, dps
+
+Wing 2
+- SLOTH: aheal, qheal, aheal tank, qheal tank, adps, qdps, dps
+- MATTHIAS: aheal, qheal, aheal tank, qheal tank, adps, qdps, dps
+
+Wing 3
+- ESCORT: aheal, qheal, aheal tank, qheal tank, adps, qdps, dps, tower
+- KEEP CONSTRUCT: aheal, qheal, aheal tank, qheal tank, adps, qdps, dps
+- XERA: aheal, qheal, aheal tank, qheal tank, adps, qdps, dps
+
+Wing 4
+- CAIRN: aheal, qheal, aheal tank, qheal tank, adps, qdps, dps
+- MURSAAT: aheal, qheal, aheal tank, qheal tank, adps, qdps, dps
+- SAMAROG: aheal, qheal, aheal tank, qheal tank, adps, qdps, dps
+- DEIMOS: aheal, qheal, aheal tank, qheal tank, adps, qdps, dps, handkite,
+
+Wing 5
+- SOULLESS HORROR: aheal, qheal, aheal tank, qheal tank, adps, qdps, dps, pushkite
+- DHUUM: aheal, qheal, aheal tank, qheal tank, adps, qdps, dps, pushkite
+
+Wing 6
+- CONJURED AMALGAMATE: aheal, qheal, aheal tank, qheal tank, adps, qdps, dps
+- LARGOS: aheal, qheal, aheal tank, qheal tank, adps, qdps, dps
+- QADIM: aheal, qheal, aheal tank, qheal tank, adps, qdps, dps, q1 kite
+
+Wing 7
+- ADINA: aheal, qheal, aheal tank, qheal tank, adps, qdps, dps
+- SABIR: aheal, qheal, aheal tank, qheal tank, adps, qdps, dps
+- QADIM THE PEERLESS: aheal, qheal, aheal tank, qheal tank, adps, qdps, dps, pylon
