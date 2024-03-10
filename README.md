@@ -5,7 +5,7 @@ The Raid Role Randomizer is a third-party, external tool for Guild Wars 2, which
 Features:
 - it assures to have in your squad 2 healers (one tank), 2 support dps and 6 dps
 - it assures to have in your squad special roles, such as tower (W3), hand kite (W4), Qadim 1 kite (W6), 3 pylons (W7)
-- save your composition to a ```.xlsx``` sheet. The sheet will be generated in the folder, where you have your ```.exe``
+- save your composition to a ```.xlsx``` sheet. The sheet will be generated in the folder, where you have your ```.exe```
 - custom roles for each team member
 
   ## Tutorial and explanation
