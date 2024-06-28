@@ -37,7 +37,7 @@ Once these preparation works have been done, you can double-click the ```.exe```
 - 'Enter save name': enter the save name for your ```.xlsx``` sheet. You don't have to specify the format, only the name. Example: ```my_test_roles```
 - Clicking 'Generate roles' will generate a set of random roles, save it the ```.xlsx``` sheet with the save name specified, and display the current assignments in a small window below the button. Pressing it again will repeat the same. Always the last assignment gets saved, if you don't change the save name.
 
-If you have any comments, or requests, or notice any bugs you can let me know about them here on GitHub, in-game (SaigoRyuu.5196), or on Discord (syntaxerror2315). 
+If you have any comments, or requests, or notice any bugs you can let me know about them here on GitHub, in-game (syntaxERROR.5196), or on Discord (syntaxerror2315). 
 
 For the programmers: the whole project was created using Python.
 
